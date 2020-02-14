@@ -9,4 +9,5 @@ Added
 
 
 * git rm FILENAME.txt
+* git diff
 * git status
