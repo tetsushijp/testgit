@@ -1,3 +1,4 @@
+
 test test aaa
 line2: test3 tet
 Added
@@ -7,4 +8,4 @@ Added
 * git commit
 
 
-
+* git rm FILENAME.txt
